@@ -1,5 +1,5 @@
 # Clove-dental-User-interface
-# Clinic Landing Page Website
+## Clinic Landing Page Website
 
 This is a responsive landing page website for a clinic/hospital built using **HTML** and **CSS**.  
 It includes sections like hero banner, features, patient info, before–after section, plans/services, and footer.
